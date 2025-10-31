@@ -2,7 +2,7 @@
 
 A visual simulation of Conway’s Game of Life built with **p5.js**, focusing on clean logic flow, grid iteration, and emergent behavior.
 
-🌱 **Current state:** core logic complete — grid initializes randomly, evolves automatically, and follows classic birth/survival rules.  
+🌱 **Current state:** core logic complete, grid initializes randomly, evolves automatically, and follows classic birth/survival rules.  
 🎯 **Goal:** add pause / step control and optional color fade for living cells.
 
 ---
