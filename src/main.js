@@ -26,9 +26,9 @@ function setup() {
 		cells[i] = [];
 		for (var j = 0; j < nb_cells_h; j++) {
 			cells[i][j] = new Cell(i*cell_w, j*cell_h, cell_w, cell_h);
-			if (floor(random(5)) == 1) {
-				cells[i][j].alive = true;
-			}
+			//if (floor(random(5)) == 1) {
+				cells[i][j].alive = false;
+			//}
 		}
 	}
 
@@ -153,3 +153,4 @@ function clicked_cells(x, y, z) {
 		cells[a][b].alive = false;
 	}
 }
+
