@@ -8,7 +8,7 @@ A visual simulation of Conway’s Game of Life built with **p5.js**, focusing on
 ---
 ## 🎥 Demo
 
-👉 **Live demo:** [seifpetit.github.io/game-of-life]
+👉 **Live demo:** [seifpetit.github.io/game-of-life](seifpetit.github.io/game-of-life)
 ![Game of Life Demo](demo.gif)  
 ---
 
