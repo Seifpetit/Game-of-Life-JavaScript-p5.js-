@@ -6,6 +6,11 @@ A visual simulation of Conway’s Game of Life built with **p5.js**, focusing on
 🎯 **Goal:** add pause / step control and optional color fade for living cells.
 
 ---
+## 🎥 Demo
+
+👉 **Live demo:** [seifpetit.github.io/game-of-life]
+![Game of Life Demo](demo.gif)  
+---
 
 ### 🧠 Core Features
 - Grid-based simulation (2D array)  
